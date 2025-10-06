@@ -1,0 +1,457 @@
+/* ===================================
+   GLOBAL STYLES & RESETS
+   =================================== */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* ===================================
+   TOP HEADER
+   =================================== */
+
+.top-header {
+    width: 1450px;
+    margin-left: -300px;
+    background: #ffffff;
+    border-bottom: 2px solid #e0e0e0;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.header-container {
+    
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+
+
+.header-left {
+    justify-content: flex-start;
+    font-size: 11px;
+    color: #666;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.divider {
+    color: #918585;
+    margin: 0 5px;
+}
+
+.header-center {
+    flex: 0 0 auto;
+    text-align: center;
+}
+
+.site-logo {
+    font-family: 'Old English Text MT', 'Times New Roman', serif;
+    font-size: 36px;
+    font-weight: 700;
+    margin: 0;
+    line-height: 1.2;
+    color: #000;
+}
+
+.logo-highlight {
+    color: #d32f2f;
+}
+
+.site-tagline {
+    font-size: 9px;
+    letter-spacing: 3px;
+    color: #888;
+    text-transform: uppercase;
+    margin-top: 2px;
+}
+
+.header-right {
+    justify-content: flex-end;
+}
+
+.btn-subscribe {
+    background: #ffc107;
+    color: #000;
+    border: none;
+    padding: 8px 16px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background 0.3s;
+}
+
+.btn-subscribe:hover {
+    background: #ffb300;
+}
+
+.btn-signin {
+    background: #333;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background 0.3s;
+}
+
+.btn-signin:hover {
+    background: #555;
+}
+
+/* ===================================
+   NAVIGATION BAR
+   =================================== */
+
+.main-navigation {
+    width: 1450px;
+    margin-left: -300px;
+    background: #fff;
+    border-bottom: 3px double #333;
+    margin-bottom: 0;
+}
+
+.nav-container {
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-tabs {
+    display: flex;
+    gap: 0;
+    flex-wrap: wrap;
+}
+
+.nav-tab {
+    background: none;
+    border: none;
+    border-right: 1px solid #e8e8e8;
+    padding: 12px 20px;
+    font-family: 'Arial', sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #333;
+    cursor: pointer;
+    transition: all 0.2s;
+    white-space: nowrap;
+}
+
+.nav-tab:hover {
+    background: #f8f8f8;
+    color: #d32f2f;
+}
+
+.nav-tab.active {
+    color: #d32f2f;
+    background: #fff8f8;
+    border-bottom: 3px solid #d32f2f;
+}
+
+.nav-user-section {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding: 8px 0;
+}
+
+.user-welcome {
+    font-size: 13px;
+    color: #666;
+}
+
+.user-welcome strong {
+    color: #d32f2f;
+    font-weight: 600;
+}
+
+.btn-logout {
+    background: #d32f2f;
+    color: #fff;
+    border: none;
+    padding: 6px 14px;
+    font-size: 12px;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background 0.3s;
+}
+
+.btn-logout:hover {
+    background: #b71c1c;
+}
+
+/* ===================================
+   MAIN CONTENT AREA
+   =================================== */
+
+.main-content {
+    padding: 30px 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.content-wrapper {
+    background: #ffffff;
+    padding: 0;
+    margin: 0;
+    width: 800px;
+}
+
+/* ===================================
+   ERROR ALERT
+   =================================== */
+
+.error-alert {
+    background: #ffebee;
+    border: 1px solid #ef5350;
+    border-radius: 0;
+    padding: 15px 20px;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.error-icon {
+    font-size: 24px;
+}
+
+.error-message {
+    flex: 1;
+    color: #c62828;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.btn-retry {
+    background: #d32f2f;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background 0.3s;
+}
+
+.btn-retry:hover {
+    background: #b71c1c;
+}
+
+/* ===================================
+   ADVERTISEMENT BANNER
+   =================================== */
+
+.ad-banner {
+    width: 1200px;
+    margin-left: -200px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.ad-label {
+    display: block;
+    text-align: center;
+    font-size: 9px;
+    text-transform: uppercase;
+    color: #999;
+    letter-spacing: 2px;
+    margin-bottom: 15px;
+}
+
+.ad-content {
+    display: flex;
+    gap: 25px;
+    align-items: center;
+}
+
+.ad-image {
+    width: 180px;
+    height: 180px;
+    background: linear-gradient(135deg, #788be2 0%, #788be2 100%);
+    border-radius: 4px;
+    flex-shrink: 0;
+}
+
+.ad-text h3 {
+    font-size: 26px;
+    color: #333;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+
+.ad-text p {
+    font-size: 15px;
+    color: #666;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+.btn-ad {
+    background: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background 0.3s;
+}
+
+.btn-ad:hover {
+    background: #555;
+}
+
+/* ===================================
+   PAPER SECTION
+   =================================== */
+
+.paper-section {
+    width: 1200px;
+    margin-left: -200px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 30px 20px;
+    min-height: 100vh;
+}
+
+.paper-content {
+    /* Content from PaperViewer will render here */
+}
+
+/* Loading Fullscreen - White Screen During Initial Load */
+.loading-fullscreen {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+}
+
+.loading-fullscreen h2 {
+    margin-top: 20px;
+    color: #333;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.loading-fullscreen p {
+    color: #666;
+    margin-top: 8px;
+    font-size: 0.95rem;
+}
+
+.loading-fullscreen .spinner {
+    border: 4px solid #f3f3f3;
+    border-top: 4px solid #d32f2f;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+/* ===================================
+   RESPONSIVE DESIGN
+   =================================== */
+
+@media (max-width: 768px) {
+    .header-container {
+        flex-direction: column;
+        gap: 15px;
+        padding: 15px;
+    }
+    
+    .header-left,
+    .header-right {
+        width: 100%;
+        justify-content: center;
+    }
+    
+    .site-logo {
+        font-size: 28px;
+    }
+    
+    .nav-container {
+        flex-direction: column;
+        gap: 15px;
+        padding: 10px;
+    }
+    
+    .nav-tabs {
+        width: 100%;
+        justify-content: center;
+    }
+    
+    .nav-tab {
+        padding: 10px 15px;
+        font-size: 12px;
+    }
+    
+    .nav-user-section {
+        width: 100%;
+        justify-content: center;
+    }
+    
+    .ad-content {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .ad-image {
+        width: 100%;
+        height: 200px;
+    }
+    
+    .paper-section {
+        padding: 20px 15px;
+    }
+}
+
+@media (max-width: 480px) {
+    .site-logo {
+        font-size: 24px;
+    }
+    
+    .nav-tab {
+        padding: 8px 12px;
+        font-size: 11px;
+    }
+    
+    .btn-subscribe,
+    .btn-signin,
+    .btn-logout {
+        padding: 6px 12px;
+        font-size: 12px;
+    }
+}
