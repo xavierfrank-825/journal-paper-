@@ -4,6 +4,7 @@ import { useAuth } from '../../contexts/AuthContext';
 import UploadXML from './UploadXML';
 import ManagePapers from './ManagePapers';
 import PaperList from '../User/PaperList';
+import { parseXMLToHTML } from '../../utils/xmlParser';
 import './AdminDashboard.css';
 
 const AdminDashboard = () => {
@@ -19,12 +20,23 @@ const AdminDashboard = () => {
   const handleViewHTML = (xmlContent, paperData) => {
     console.log("Preview requested:", paperData);
 
-    // For now, just show the raw XML (or you can replace with your converter)
-    setPreviewContent(xmlContent);
-    setPreviewPaper(paperData);
+    try {
+      // Convert XML to HTML using the parser
+      const htmlContent = parseXMLToHTML(xmlContent);
+      console.log("✅ XML converted to HTML successfully");
+      
+      setPreviewContent(htmlContent);
+      setPreviewPaper(paperData);
 
-    // Switch tab to "view" automatically if you want
-    setActiveTab('view');
+      // Switch tab to "view" automatically
+      setActiveTab('view');
+    } catch (error) {
+      console.error("Error converting XML to HTML:", error);
+      // Fallback to showing raw XML if conversion fails
+      setPreviewContent(xmlContent);
+      setPreviewPaper(paperData);
+      setActiveTab('view');
+    }
   };
 
   return (
@@ -76,31 +88,32 @@ const AdminDashboard = () => {
               {/* If previewContent is set, show the preview, otherwise PaperList */}
               {previewContent ? (
                 <div className="paper-preview">
-                  <h2>Preview: {previewPaper?.title || 'Untitled Paper'}</h2>
-                  <pre
+                  <div className="preview-header">
+                    <h2>Preview: {previewPaper?.title || 'Untitled Paper'}</h2>
+                    <button
+                      onClick={() => {
+                        setPreviewContent('');
+                        setPreviewPaper(null);
+                      }}
+                      className="btn btn-secondary"
+                    >
+                      ← Back to papers
+                    </button>
+                  </div>
+                  <div 
+                    className="preview-content"
                     style={{
-                      whiteSpace: 'pre-wrap',
-                      background: '#f9f9f9',
+                      background: '#fff',
                       padding: '20px',
                       borderRadius: '8px',
-                      fontSize: '14px',
-                      lineHeight: '1.5',
+                      border: '1px solid #e0e0e0',
                       maxHeight: '70vh',
                       overflowY: 'auto',
+                      fontSize: '16px',
+                      lineHeight: '1.6',
                     }}
-                  >
-                    {previewContent}
-                  </pre>
-                  <button
-                    onClick={() => {
-                      setPreviewContent('');
-                      setPreviewPaper(null);
-                    }}
-                    className="btn btn-secondary"
-                    style={{ marginTop: '10px' }}
-                  >
-                    ← Back to papers
-                  </button>
+                    dangerouslySetInnerHTML={{ __html: previewContent }}
+                  />
                 </div>
               ) : (
                 <PaperList

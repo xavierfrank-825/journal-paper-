@@ -1,5 +1,300 @@
 // frontend/src/utils/jatsParser.js
 
+// ✅ JATS Parser Class
+class JATSParser {
+  constructor() {
+    this.processors = {
+      image: ImageProcessor,
+      modal: FigureModal
+    };
+  }
+
+  parse(xmlString) {
+    try {
+      console.log("🚀 Starting JATS XML parsing...");
+      
+      // Parse XML string to DOM
+      const parser = new DOMParser();
+      const xmlDoc = parser.parseFromString(xmlString, 'text/xml');
+      
+      // Check for parsing errors
+      const parseError = xmlDoc.getElementsByTagName('parsererror');
+      if (parseError.length > 0) {
+        console.error("XML parsing error:", parseError[0].textContent);
+        return "<p>Error: Invalid XML format</p>";
+      }
+
+      // Create a container for processing
+      const container = document.createElement('div');
+      container.id = 'jatsParserFullText';
+      
+      // Convert XML to HTML structure
+      const htmlContent = this.convertXMLToHTML(xmlDoc);
+      container.innerHTML = htmlContent;
+      
+      // Process images and other elements
+      this.processImages(container);
+      
+      // Set up figure modals
+      this.setupModals(container);
+      
+      console.log("✅ JATS parsing complete");
+      return container.innerHTML;
+      
+    } catch (error) {
+      console.error("Error in JATS parsing:", error);
+      return "<p>Error: Failed to parse XML</p>";
+    }
+  }
+
+  convertXMLToHTML(xmlDoc) {
+    // Basic XML to HTML conversion
+    // This is a simplified version - you may need to enhance based on your specific JATS structure
+    
+    let html = '';
+    
+    // Process article element
+    const article = xmlDoc.querySelector('article');
+    if (article) {
+      html = this.processArticle(article);
+    } else {
+      // If no article element, process the root
+      html = this.processElement(xmlDoc.documentElement);
+    }
+    
+    return html;
+  }
+
+  processArticle(article) {
+    let html = '<div class="article-content">';
+    
+    // Process front matter (title, authors, abstract)
+    const front = article.querySelector('front');
+    if (front) {
+      html += this.processFront(front);
+    }
+    
+    // Process body
+    const body = article.querySelector('body');
+    if (body) {
+      html += this.processBody(body);
+    }
+    
+    // Process back matter (references)
+    const back = article.querySelector('back');
+    if (back) {
+      html += this.processBack(back);
+    }
+    
+    html += '</div>';
+    return html;
+  }
+
+  processFront(front) {
+    let html = '<div class="article-front">';
+    
+    // Process title
+    const titleGroup = front.querySelector('title-group');
+    if (titleGroup) {
+      const title = titleGroup.querySelector('article-title');
+      if (title) {
+        html += `<h1 class="article-title">${title.textContent}</h1>`;
+      }
+    }
+    
+    // Process authors
+    const contribGroup = front.querySelector('contrib-group');
+    if (contribGroup) {
+      html += this.processContribGroup(contribGroup);
+    }
+    
+    // Process abstract
+    const abstract = front.querySelector('abstract');
+    if (abstract) {
+      html += `<div class="abstract"><h2>Abstract</h2>${this.processElement(abstract)}</div>`;
+    }
+    
+    html += '</div>';
+    return html;
+  }
+
+  processBody(body) {
+    let html = '<div class="article-body">';
+    
+    // Process sections
+    const sections = body.querySelectorAll('sec');
+    sections.forEach(section => {
+      html += this.processSection(section);
+    });
+    
+    html += '</div>';
+    return html;
+  }
+
+  processSection(section) {
+    let html = '<div class="section">';
+    
+    // Process title
+    const title = section.querySelector('title');
+    if (title) {
+      html += `<h2 class="article-section-title">${title.textContent}</h2>`;
+    }
+    
+    // Process paragraphs and other content
+    const paragraphs = section.querySelectorAll('p');
+    paragraphs.forEach(p => {
+      html += `<p>${this.processElement(p)}</p>`;
+    });
+    
+    // Process figures
+    const figures = section.querySelectorAll('fig');
+    figures.forEach(fig => {
+      html += this.processFigure(fig);
+    });
+    
+    html += '</div>';
+    return html;
+  }
+
+  processFigure(fig) {
+    let html = '<figure class="jats-figure-container">';
+    
+    // Process label
+    const label = fig.querySelector('label');
+    if (label) {
+      html += `<div class="figure-label">${label.textContent}</div>`;
+    }
+    
+    // Process graphic
+    const graphic = fig.querySelector('graphic, inline-graphic');
+    if (graphic) {
+      const href = graphic.getAttribute('xlink:href') || graphic.getAttribute('href') || graphic.getAttribute('src');
+      if (href) {
+        html += `<img src="${href}" alt="Figure" class="jats-figure processed-image" loading="lazy" />`;
+      }
+    }
+    
+    // Process caption
+    const caption = fig.querySelector('caption');
+    if (caption) {
+      html += `<figcaption class="figure-caption">${this.processElement(caption)}</figcaption>`;
+    }
+    
+    html += '</figure>';
+    return html;
+  }
+
+  processContribGroup(contribGroup) {
+    let html = '<div class="contrib-group">';
+    
+    const contribs = contribGroup.querySelectorAll('contrib');
+    contribs.forEach(contrib => {
+      html += this.processContrib(contrib);
+    });
+    
+    html += '</div>';
+    return html;
+  }
+
+  processContrib(contrib) {
+    let html = '<div class="contrib">';
+    
+    const name = contrib.querySelector('name');
+    if (name) {
+      const givenNames = name.querySelector('given-names');
+      const surname = name.querySelector('surname');
+      if (givenNames && surname) {
+        html += `<span class="author-name">${givenNames.textContent} ${surname.textContent}</span>`;
+      }
+    }
+    
+    html += '</div>';
+    return html;
+  }
+
+  processBack(back) {
+    let html = '<div class="article-back">';
+    
+    // Process references
+    const refList = back.querySelector('ref-list');
+    if (refList) {
+      html += '<div class="references"><h2>References</h2>';
+      const refs = refList.querySelectorAll('ref');
+      refs.forEach(ref => {
+        html += `<div class="reference">${this.processElement(ref)}</div>`;
+      });
+      html += '</div>';
+    }
+    
+    html += '</div>';
+    return html;
+  }
+
+  processElement(element) {
+    if (!element) return '';
+    
+    // Handle text nodes
+    if (element.nodeType === Node.TEXT_NODE) {
+      return element.textContent;
+    }
+    
+    // Handle different element types
+    const tagName = element.tagName.toLowerCase();
+    
+    switch (tagName) {
+      case 'p':
+        return `<p>${this.processChildren(element)}</p>`;
+      case 'bold':
+      case 'b':
+        return `<strong>${this.processChildren(element)}</strong>`;
+      case 'italic':
+      case 'i':
+        return `<em>${this.processChildren(element)}</em>`;
+      case 'underline':
+        return `<u>${this.processChildren(element)}</u>`;
+      case 'sup':
+        return `<sup>${this.processChildren(element)}</sup>`;
+      case 'sub':
+        return `<sub>${this.processChildren(element)}</sub>`;
+      case 'xref':
+        const refType = element.getAttribute('ref-type');
+        const rid = element.getAttribute('rid');
+        if (refType === 'bibr' && rid) {
+          return `<a href="#ref-${rid}" class="reference-link">${this.processChildren(element)}</a>`;
+        }
+        return this.processChildren(element);
+      case 'ext-link':
+        const href = element.getAttribute('xlink:href') || element.getAttribute('href');
+        if (href) {
+          return `<a href="${href}" target="_blank" rel="noopener noreferrer">${this.processChildren(element)}</a>`;
+        }
+        return this.processChildren(element);
+      default:
+        return this.processChildren(element);
+    }
+  }
+
+  processChildren(element) {
+    let html = '';
+    for (let child of element.childNodes) {
+      html += this.processElement(child);
+    }
+    return html;
+  }
+
+  processImages(container) {
+    if (this.processors.image) {
+      this.processors.image.processImages(container);
+    }
+  }
+
+  setupModals(container) {
+    if (this.processors.modal) {
+      this.processors.modal.init(container);
+    }
+  }
+}
+
 // ✅ Image Processing Utilities
 const ImageProcessor = {
   // Process different types of image elements in JATS XML
@@ -703,8 +998,12 @@ function addImageStyles() {
 // Export functions for use in other modules
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = {
+    JATSParser,
     ImageProcessor,
     FigureModal,
     addImageStyles
   };
 }
+
+// Also export for ES6 modules
+export { addImageStyles, FigureModal, ImageProcessor, JATSParser };

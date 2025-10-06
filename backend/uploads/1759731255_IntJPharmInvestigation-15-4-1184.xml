@@ -1,0 +1,1283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<?xml-stylesheet type="text/xsl" href="journal_ViewIMF-v1.0.xsl"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">Int. J. Pharm. Investigation.</journal-id>
+<journal-id journal-id-type="pmc">Int. J. Pharm. Investigation.</journal-id>
+<journal-id journal-id-type="nlm-ta">Int. J. Pharm. Investigation.</journal-id>
+<journal-title-group>
+<journal-title>International Journal of Pharmaceutical Investigation</journal-title>
+<abbrev-journal-title abbrev-type="publisher">Int. J. Pharm. Investigation.</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="epub">2230-9713</issn>
+<publisher>
+<publisher-name>Manuscript TechnoMedia LLP</publisher-name>
+<publisher-loc>India</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">IntJPharmInvestigation-15-4-1184</article-id>
+<article-id pub-id-type="doi">10.5530/ijpi.20250206</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Original Article</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Formulation and Evaluation of Celecoxib and Apixaban Emulgel for Topical Delivery</article-title>
+</title-group>
+<contrib-group content-type="authors">
+<contrib id="author-1" contrib-type="author" corresp="yes">
+<name>
+<surname>Sahoo</surname>
+<given-names>Amaresh Chandra</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+<xref ref-type="corresp" rid="cr-1">*</xref>
+</contrib>
+<contrib id="author-2" contrib-type="author">
+<name>
+<surname>Dash</surname>
+<given-names>Sujit</given-names>
+</name>
+<xref ref-type="aff" rid="aff-2">2</xref>
+</contrib>
+<contrib id="author-3" contrib-type="author">
+<name>
+<surname>Sahoo</surname>
+<given-names>Prabhat Kumar</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+</contrib>
+<contrib id="author-4" contrib-type="author">
+<name>
+<surname>Sahoo</surname>
+<given-names>Minaketan</given-names>
+</name>
+<xref ref-type="aff" rid="aff-3">3</xref>
+</contrib>
+</contrib-group>
+<aff id="aff-1"><label>1</label><institution>Department of Pharmaceutics, Institute of Pharmacy and Technology</institution>, Salipur, Cuttack, Odisha, <country>INDIA</country>.</aff>
+<aff id="aff-2"><label>2</label><institution>Department of Pharmacognosy, Institute of Pharmacy and Technology</institution>, Salipur, Odisha, <country>INDIA</country>.</aff>
+<aff id="aff-3"><label>3</label><institution>Department of Pharmaceutical Analysis, Institute of Pharmacy and Technology</institution>, Salipur, Odisha, <country>INDIA</country>.</aff>
+<author-notes>
+<corresp id="cr-1"><label>*</label><bold>Correspondence: Dr. Amaresh Chandra Sahoo</bold> Associate professor, Department of Pharmaceutics, Institute of Pharmacy and Technology, Salipur-754202, Odisha, INDIA. Email: <email>amareshsahoo77@gmail.com</email></corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<season>Oct-Dec</season>
+<year>2025</year>
+</pub-date>
+<volume>15</volume>
+<issue>4</issue>
+<fpage>1184</fpage>
+<lpage>1194</lpage>
+<history>
+<date date-type="received">
+<day>16</day>
+<month>01</month>
+<year>2025</year>
+</date>
+<date date-type="revised">
+<day>07</day>
+<month>03</month>
+<year>2025</year>
+</date>
+<date date-type="accepted">
+<day>30</day>
+<month>06</month>
+<year>2025</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>&#x00A9;2025 Author(s)</copyright-statement>
+<copyright-year>2025</copyright-year>
+<copyright-holder>Author(s)</copyright-holder>
+<license xlink:href="https://creativecommons.org/licenses/by/4.0/">
+<license-p>This is an open access article distributed under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License, which allows others to remix, tweak, and build upon the work non-commercially, as long as the author is credited and the new creations are licensed under the identical terms.</license-p>
+</license>
+</permissions>
+<abstract>
+<title>ABSTRACT</title>
+<sec>
+<title>Background</title>
+<p>Emulgel is a combination of gel and emulsion. Drugs are first incorporated into an emulsion and then the conventional emulsion is transferred into an emulgel by using a gelling agent.</p>
+</sec>
+<sec>
+<title>Objectives</title>
+<p>To formulate a stable o/w emulgel of an anti-inflammatory hydrophobic drug i.e., Celecoxib and anti-coagulant drug i.e., apixaban for enhanced permeability of drugs. Methods-Emulgel consists of both aqueous and oil phase. The aqueous phase consists of apixaban, tween 20 and oil phase composed of celecoxib, span 20 and liquid paraffin. Emulsion was prepared by mixing both the phases at 60&#186;C-70&#186;C, then this emulsion was incorporated into a gel using various types of gelling agent (Sod.CMC, Carbopol) having concentration of 2%, 3% and 4%. Light liquid paraffin was used as the oil, span 20, Tween 20 as emulsifier and propylene glycol as co-surfactant. The emulgel was evaluated for its various physicochemical parameters and <italic>in vitro</italic> release study of the formulated formulations were evaluated.</p>
+</sec>
+<sec>
+<title>Results and Discussion</title>
+<p>The pH, swelling index, viscosity, drug content of emulgel was found in the range of 5.8 to 6.4, 1.12 to 1.28, 1466 to 1742 cps, 91.06% to 96.31%. respectively. The cumulative percent drug release of the apixaban and celecoxib from Carbopol emulgel is 98%, 92%, 81% and 94%, 89%, 75% respectively whereas the cumulative percent drug release of the apixaban and celecoxib from Sod.CMC emulgel is 93%, 88%, 79% and 91%, 84%, 75% respectively. The drug release profile is based on the zero-order plot and the Korsmeyer Peppas model.</p>
+</sec>
+<sec>
+<title>Conclusion</title>
+<p>All the prepared emulgel showed acceptable physical properties. Batch C2 is considered an optimal formulation because it achieved the maximum cumulative release of drugs and the ideal viscosity.</p>
+</sec>
+</abstract>
+<kwd-group>
+<title>Keywords</title>
+<kwd>Emulgel</kwd>
+<kwd>Celecoxib</kwd>
+<kwd>Apixaban</kwd>
+<kwd>Simultaneous Estimation</kwd>
+<kwd><italic>Ex vivo</italic></kwd>
+</kwd-group>
+</article-meta>
+</front>
+<body>
+<sec>
+<title>INTRODUCTION</title>
+<p>Large volumes of aqueous or hydroalcoholic liquid are trapped in a network of colloidal solid particles to produce gels, a relatively novel class of dosage form.<sup>1</sup> Both natural and synthetic organic polymers or inorganic substances like aluminium salts may build up these particles (Krishna <italic>et al</italic>., 2022). Despite being so beneficial, gels exhibit a significant constraint in the delivery of hydrophobic medicines. As a result, emulgel is developed and used to compensate up for this deficiency, allowing even a hydrophobic medicinal moiety to benefit from the special qualities of gels. Emulgel is an amalgam of a gel and an emulsion (<xref ref-type="bibr" rid="R7">Khullar <italic>et al</italic>., 2012</xref>). Drugs are delivered to the skin via emulsions that are either water-in-oil or oil-in-water. Additionally, they have a strong potential for skin penetration. Emulgel for dermatological usage offers a number of beneficial qualities, including being thixotropic, greaseless, easily spreadable, readily removeable, emollient, non-staining, water-soluble, prolonged shelf life, bio-friendly, transparent, and having a beautiful look (<xref ref-type="bibr" rid="R9">Lakshmi <italic>et al</italic>., 2021</xref>). Different topical formulations of various analgesic medicines are available on the market. An effective NSAID that has long been used for both analgesic and anti-inflammatory purposes is celecoxib. As of now, celecoxib has not been marketed as a topical formulation. The majority of topical medications are utilized for localized effects at the application site due to medication penetration into the dermal or mucous membrane layers underneath the skin. Drug applied to the skin for their local action includes antiseptics, antifungal agent, skin emollients and protectant (<xref ref-type="bibr" rid="R14">Panwar <italic>et al</italic>., 2011</xref>). In recent years, there has been great interest in the use of novel polymers with complex functions as emulsifiers and thickeners because the gelling capacity of these compounds allows the formulation of stable emulsions and creams by decreasing surface and interfacial tension and at the same time increasing the viscosity of the aqueous phase (<xref ref-type="bibr" rid="R19">Talat <italic>et al</italic>., 2021</xref>).</p>
+</sec>
+<sec>
+<title>MATERIALS AND METHODS</title>
+<p>Apixaban and Celecoxib was obtained as a gift sample from Cadila Pharmaceuticals Ltd., Ahmedabad, Gujrat. Carbopol 940, Sodium CMC was obtained from Loba chemicals Mumbai. Cellophane membrane was procured from Hi media, Mumbai. All other chemicals used were of analytical grade and were used without any further chemical modification.</p>
+<sec>
+<title>Preparation of standard graph</title>
+<p>The standard stock solution of celecoxib (<xref ref-type="bibr" rid="R16">Reddy <italic>et al</italic>., 2020</xref>), and apixaban (<xref ref-type="bibr" rid="R3">Dudhe <italic>et al</italic>., 2017</xref>), was made by dissolving 50 mg of each drug in methanol, and then adjusting the final volume with the same solvent in a 50 mL volumetric flask to obtain a solution containing 1000 &#181;g/mL of each drug. Then from this 2.5 mL solution was withdrawn and diluted up to 25 mL with same solvent. Then working standard solution were scanned in the UV range of 400-200 nm to determine &#955;<sub>max</sub>. The &#955;<sub>max</sub> of apixaban and celecoxib is 278 nm and 253 nm. seven working standard solutions with a concentration of 1, 2, 5, 10, 15, 20, and 25 &#181;g/mL were prepared with methanol. In order to determine the linearity and regression equation, the absorbance of the final solution was measured at each of its &#955;<sub>max</sub>.</p>
+</sec>
+<sec>
+<title>Simultaneous estimation of apixaban and celecoxib</title>
+<p>A method was developed for simultaneous estimation of both apixaban and celecoxib (<xref ref-type="bibr" rid="R15">Ramadan <italic>et al</italic>., 2023</xref>; <xref ref-type="bibr" rid="R10">Mahmood <italic>et al</italic>., 2020</xref>), by mixing standards in the Beers-Lambert range in the ratio of 1:5. for each drug 1,2,3,4 and 5 &#181;g/mL of apixaban and 5,10,15,20 and 25 &#181;g/mL of celecoxib were prepared by diluting appropriate volume of standard stock solution. The mixed standard solution was scanned in the range of 200-400 nm. The absorptivity values determined are for Celecoxib are 0.0448 (ax1), 0.0175 (ax2) and for Apixaban 0.0415 (ay1), 0.0435 (ay2) at 253 nm and 278 nm, respectively.</p>
+</sec>
+<sec>
+<title>Preparation of emulgel containing apixaban and celecoxib</title>
+<p>Different formulations were prepared using various types of gelling agent such as Sod. CMC, and (<xref ref-type="bibr" rid="R7">Khullar <italic>et al</italic>., 2012</xref>), Carbopol 940 (<xref ref-type="bibr" rid="R2">Bipindra <italic>et al</italic>., 2022</xref>), with different concentration i.e. 2%, 3%, and 4%. The gel phase in the formulations was prepared by dispersing weighed quantity of Carbopol and Sod. CMC powder into the vortex of purified water in a beaker by using a mechanical stirrer until thin dispersion without lumps will be formed. The oil phase of the emulsion was prepared by dissolving span 20 in light liquid paraffin while the aqueous phase was prepared by dissolving tween 20 in purified water. Celecoxib was dissolved in oil phase whereas apixaban was dissolved in aqueous phase. Methyl and propyl parabens were dissolved in propylene glycol and mixed with the aqueous phase. Both the oily and aqueous phases were separately heated to 70-80&#186;C, then the oily phase was added to the aqueous phase with continuous stirring until it got cooled to room temperature. The obtained emulsion was mixed with the gel base in 1:1 ratio with gentle stirring to obtain the emulgel. The solution was kept overnight, pH was adjusted to 5.5-6.5 using Tri Ethanol Amine (TEA). The composition of different formulations has been discussed in <xref ref-type="table" rid="T1">Table 1</xref>.</p>
+<table-wrap id="T1">
+<label>Table 1:</label><caption><title>Composition of different formulation batches (Quantities and % w/w as applicable)</title></caption>
+<table>
+<thead>
+<tr>
+<th><p>Ingredients</p></th>
+<th><p>C1</p></th>
+<th><p>C2</p></th>
+<th><p>C3</p></th>
+<th><p>N1</p></th>
+<th><p>N2</p></th>
+<th><p>N3</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>Carbopol 940 (%)</p></td>
+<td><p>2</p></td>
+<td><p>3</p></td>
+<td><p>4</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr>
+<td><p>Sodium CMC (%)</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>2</p></td>
+<td><p>3</p></td>
+<td><p>4</p></td>
+</tr>
+<tr>
+<td><p>Celecoxib (mg.)</p></td>
+<td><p>200</p></td>
+<td><p>200</p></td>
+<td><p>200</p></td>
+<td><p>200</p></td>
+<td><p>200</p></td>
+<td><p>200</p></td>
+</tr>
+<tr>
+<td><p>Apixaban (mg.)</p></td>
+<td><p>10</p></td>
+<td><p>10</p></td>
+<td><p>10</p></td>
+<td><p>10</p></td>
+<td><p>10</p></td>
+<td><p>10</p></td>
+</tr>
+<tr>
+<td><p>Water (mL.)</p></td>
+<td><p>20</p></td>
+<td><p>20</p></td>
+<td><p>20</p></td>
+<td><p>20</p></td>
+<td><p>20</p></td>
+<td><p>20</p></td>
+</tr>
+<tr>
+<td><p>Liquid paraffin (mL.)</p></td>
+<td><p>1.5</p></td>
+<td><p>1.5</p></td>
+<td><p>1.5</p></td>
+<td><p>1.5</p></td>
+<td><p>1.5</p></td>
+<td><p>1.5</p></td>
+</tr>
+<tr>
+<td><p>Span 20 (mL.)</p></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
+</tr>
+<tr>
+<td><p>Tween 20 (mL.)</p></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
+</tr>
+<tr>
+<td><p>Propylene glycol (mL.)</p></td>
+<td><p>2.5</p></td>
+<td><p>2.5</p></td>
+<td><p>2.5</p></td>
+<td><p>2.5</p></td>
+<td><p>2.5</p></td>
+<td><p>2.5</p></td>
+</tr>
+<tr>
+<td><p>Methylparaben (mg).</p></td>
+<td><p>15</p></td>
+<td><p>15</p></td>
+<td><p>15</p></td>
+<td><p>15</p></td>
+<td><p>15</p></td>
+<td><p>15</p></td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+</sec>
+<sec>
+<title>Drug-excipient compatibility study</title>
+<sec>
+<title>Fourier Transforms Infrared spectroscopy (FTIR)</title>
+<p>The FTIR study (ALFA, Bruker) of the pure drug apixaban and celecoxib and its 1:1 the physical mixture of the drug i.e., apixaban, celecoxib were carried out to know the drug and drug interaction.</p>
+</sec>
+</sec>
+<sec>
+<title>Evaluation of emulgel</title>
+<sec>
+<title>Physical parameter</title>
+<p>The optimized emulgel formulations were inspected visually for their color, odor, homogeneity and consistency.</p>
+</sec>
+</sec>
+<sec>
+<title>pH determination of emulgel</title>
+<p>The pH of the six formulations were determined using a digital pH meter (<xref ref-type="bibr" rid="R18">Srivastava <italic>et al</italic>., 2020</xref>). A 1% solution of emulgel were prepared and the pH of each formulation was carried out in triplicates.</p>
+</sec>
+<sec>
+<title>Rheological study</title>
+<p>The viscosity of emulgel was determined using a Brookfield Viscometer (LVDV-E) with spindle S-63 (<xref ref-type="bibr" rid="R1">Bansal <italic>et al</italic>., 2015</xref>). Emulgels were filled in jar and spindle was lowered perpendicularly into the center of emulgel taking care that spindle do not touch bottom of the jar. Spindle was rotated in the gel with increasing rates of shear. At each speed, the corresponding dial reading was noted.</p>
+</sec>
+<sec>
+<title>Drug content</title>
+<p>The 1 g of emulgel was mixed in methanol. The mixture was kept for 24 hr with intermittent stirring. After 24 hr, the dispersion was filtered by using the Whatman filter paper (<xref ref-type="bibr" rid="R12">Maskare <italic>et al</italic>., 2022</xref>). A clear supernatant solution containing the dissolved drug was then obtained. The drug content in the solution was determined by using the UV-visible Spectrophotometer at &#955;<sub>max</sub> of 253 nm and 278 nm. From the regression equation of the standard curve, the concentration of celecoxib and apixaban in the emulgel formulation determined by the following formula.</p>
+<disp-formula id="FD1"><graphic xlink:href="https://jourdata.s3.us-west-2.amazonaws.com/JPHI/IntJPharmInvestigation-15-4-1184_m001.jpg"/></disp-formula>
+<p>Where, C is the concentration, DF is the dilution factor, V is the volume solvent and CF is the conversion factor.</p>
+</sec>
+<sec>
+<title>Spreadability</title>
+<p>An excess of prepared emulgel weighing 1 g was sandwiched between the two slides out of which lower slide was fixed. In order to remove air and to provide uniform film of gel between the slide, a weight of 100 g was placed on top of two slides for 5 min (<xref ref-type="bibr" rid="R17">Reddy <italic>et al</italic>., 2021</xref>), upper slide was pulled to a 20 g weight with the aid of a thread attached to a hook. Slides had to be entirely separated within the specified number of seconds. Spreadability was determined using the formula</p>
+<disp-formula id="FD2"><graphic xlink:href="https://jourdata.s3.us-west-2.amazonaws.com/JPHI/IntJPharmInvestigation-15-4-1184_m002.jpg"/></disp-formula>
+<p>Where S=Spreadability, M=Pan Weight, and L=Glass Slide Length, T=the number of seconds it took to entirely separate the slides.</p>
+</sec>
+<sec>
+<title>Photo microscopy</title>
+<p>Optimized batch of the emulgel was viewed under a light microscope to study the globular structure in the gel base (<xref ref-type="bibr" rid="R17">Reddy <italic>et al</italic>., 2021</xref>). The emulgel was suitably diluted, mounted on a glass slide and viewed by a 40X light microscope.</p>
+</sec>
+<sec>
+<title><italic>In vitro</italic> diffusion study</title>
+<p>The <italic>in vitro</italic> drug diffusion study from the emulgel formulation was carried out by using Franz diffusion shell of capacity 45 mL for 3 hr. Cellophane membrane was clamped carefully to the one end of donor compartment (<xref ref-type="bibr" rid="R6">Kausdikar <italic>et al</italic>., 2022</xref>). About 1 g of emulgel was placed on to the surface of cellophane membrane. The phosphate buffer of pH 7.4 was used as diffusion fluid and placed in the receptor compartment. The temperature of the diffusion fluid was maintained at 37&#177;1&#186;C through water recirculation in the Franz cell. The whole assembly was placed on the magnetic stirrer and the diffusion fluid was stirred at 50 RPM by using the magnetic bead. An aliquot of 5 mL of drug solution was pipetted out at a time period of 15, 30, 45, 60, 90, 120, 150, 180, 210 and 240 min, which was immediately replaced with 5 mL phosphate buffer to maintain the sink condition. The drug content in each withdrawn solution was analyzed by UV-visible spectrophotometer at &#955;<sub>max</sub> of 253 nm and 278 nm.</p>
+<p>concentration of celecoxib and apixaban determined by the formula given below:</p>
+<disp-formula id="FD3"><graphic xlink:href="https://jourdata.s3.us-west-2.amazonaws.com/JPHI/IntJPharmInvestigation-15-4-1184_m003.jpg"/></disp-formula>
+<p></p>
+</sec>
+<sec>
+<title><italic>Ex vivo</italic> evaluation (Skin permeation study)</title>
+<p>The <italic>in vitro</italic> drug diffusion study from the emulgel formulation was carried out by using Franz diffusion shell (of capacity 45 mL) for 3 hr. porcine skin was clamped carefully to the one end of donor compartment (<xref ref-type="bibr" rid="R13">Muzib <italic>et al</italic>., 2021</xref>; <xref ref-type="bibr" rid="R4">John <italic>et al</italic>., 2020</xref>). About 1 g. of emulgel was placed on to the surface of porcine skin. The phosphate buffer of pH 7.4 was used as diffusion fluid and placed in the receptor compartment. The temperature of the diffusion fluid was maintained at 37+1&#186;C through water recirculation in the Franz cell. the whole assembly was placed on the magnetic stirrer and, the diffusion fluid was stirred at 50 RPM by using the magnetic bead. An aliquot of 5 mL of drug solution was pipetted out at a time period of 15, 30, 45, 60, 90, 120, 150, 180, 210 and 240 min, which was immediately replaced with 5 mL phosphate buffer to maintain the sink condition. The drug content in each withdrawn solution was analyzed by UV-visible spectrophotometer at &#955;<sub>max</sub> of 253 nm and 278 nm. The Institute of Pharmacy and Technology, Salipur CPCSEA Committee, which oversees institutional animal ethics, gave its approval for the use of animals (1053/PO/Re/S/07/CCSEA).</p>
+</sec>
+<sec>
+<title>Skin irritation studies</title>
+<p>Draize patch test was performed on albino rabbit as the animal model (<xref ref-type="bibr" rid="R11">Malviya <italic>et al</italic>., 2013</xref>; <xref ref-type="bibr" rid="R5">Kasliwal <italic>et al</italic>., 2008</xref>). The optimized formulation was applied on the patch of preshaved (both intact and abraded) skin. The resulting reactions such as erythema and edema were scored after 24 and 72 hr.</p>
+</sec>
+</sec>
+<sec>
+<title>RESULTS</title>
+<sec>
+<title>Preparation of standard graph</title>
+<sec>
+<title>i. Calibration curve of celecoxib</title>
+<fig id="F1">
+<label>Figure 1:</label><caption><title>The calibration curve of celecoxib at 253 nm.</title></caption>
+<graphic xlink:href="https://jourdata.s3.us-west-2.amazonaws.com/JPHI/IntJPharmInvestigation-15-4-1184_f001.jpg"/>
+</fig>
+</sec>
+</sec>
+<sec>
+<title>ii. Calibration curve of apixaban</title>
+<fig id="F2">
+<label>Figure 2:</label><caption><title>Calibration curve of apixaban at 278 nm.</title></caption>
+<graphic xlink:href="https://jourdata.s3.us-west-2.amazonaws.com/JPHI/IntJPharmInvestigation-15-4-1184_f002.jpg"/>
+</fig>
+</sec>
+<sec>
+<title>Simultaneous estimation of apixaban and celecoxib</title>
+<p>Estimation of apixaban and celecoxib was achieved by simultaneous equation method by using UV spectrophotometer. The &#955;max values were 253 nm for celecoxib and 278 nm for apixaban in methanol and in both cases R&#178; value is 0.9944. Simultaneous estimation of both apixaban and celecoxib was determined by mixing standards in the beers-lambert range in the ratio of 1:5. i.e in the concentration range of 5 &#181;g/mL and 25 &#181;g/mL for apixaban and celecoxib drugs. The slope, intercept, and correlation coefficient values for apixaban 278 nm were found to be equivalent to those for celecoxib at 253 nm. The results are shown in <xref ref-type="fig" rid="F1">Figures 1</xref>-<xref ref-type="fig" rid="F3">3</xref> respectively and <xref ref-type="table" rid="T2">Table 2</xref>.</p>
+<fig id="F3">
+<label>Figure 3:</label><caption><title>Spectrum of apixaban and celecoxib in the ratio of 1:5 in methanol.</title></caption>
+<graphic xlink:href="https://jourdata.s3.us-west-2.amazonaws.com/JPHI/IntJPharmInvestigation-15-4-1184_f003.jpg"/>
+</fig>
+<table-wrap id="T2">
+<label>Table 2:</label><caption><title>Calibration curve data for apixaban and celecoxib (1:5 ratio) in methanol.</title></caption>
+<table>
+<thead>
+<tr>
+<th rowspan="2"><p>Sl. No.</p></th>
+<th rowspan="2"><p>Concentration (&#181;g/mL) 1:5</p></th>
+<th colspan="2"><p>Absorbance</p></th>
+</tr>
+<tr>
+<th colspan="2"><p>Apixaban Celecoxib</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>1</p></td>
+<td><p>01-05</p></td>
+<td><p>0.105</p></td>
+<td><p>0.249</p></td>
+</tr>
+<tr>
+<td><p>2</p></td>
+<td><p>02-10</p></td>
+<td><p>0.313</p></td>
+<td><p>0.642</p></td>
+</tr>
+<tr>
+<td><p>3</p></td>
+<td><p>03-15</p></td>
+<td><p>0.458</p></td>
+<td><p>0.921</p></td>
+</tr>
+<tr>
+<td><p>4</p></td>
+<td><p>04-20</p></td>
+<td><p>0.611</p></td>
+<td><p>1.222</p></td>
+</tr>
+<tr>
+<td><p>5</p></td>
+<td><p>05-25</p></td>
+<td><p>0.739</p></td>
+<td><p>1.47</p></td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+</sec>
+<sec>
+<title>Drug-excipient compatibility study</title>
+<sec>
+<title>Fourier Transforms Infrared Spectroscopy (FTIR)</title>
+<p>FTIR chromatogram data of apixaban, celecoxib, apixaban and celecoxib with Carbopol, apixaban and celecoxib with Sodium CMC was shown in <xref ref-type="fig" rid="F4">Figures 4</xref>-<xref ref-type="fig" rid="F7">7</xref> respectively. Results are analyzed from figure and were summarized in the <xref ref-type="table" rid="T3">Table 3</xref> and <xref ref-type="table" rid="T4">Table 4</xref>. When the FT-IR spectrum of pure apixaban was taken into account it showed, absorption bands at 3739.52 cm<sup>-1</sup> (O-H stretch(phenol)), 2925.26cm<sup>-1</sup> (C-H stretch, Aromatic), 1638.74 cm<sup>-1</sup> (N-H bond), 1553.60 cm<sup>-1</sup> (N-O asymmetric stretch), 1356.82 cm<sup>-1</sup> (C-N stretch). All the peaks are found in the emulgels of apixaban with Carbopol and Sod. CMC. That was shown in the <xref ref-type="table" rid="T3">Table 3</xref> and <xref ref-type="fig" rid="F4">Figures 4</xref>, <xref ref-type="fig" rid="F6">6</xref>, <xref ref-type="fig" rid="F7">7</xref> respectively. When the FTIR spectrum of pure celecoxib was taken into account it showed, absorption bands at 3335.14 cm-1 (N-H stretch), 1595.59 cm-1 (C-C stretch, Aromatic), 1445.92 cm-1 (C-H stretch, alkanes), 1383.37 cm-1 (N-O asymmetric stretch). All the peaks were found in the emulgels of celecoxib with Carbopol and Sod. CMC. FTIR study reveals that there is no incompatibility between drug and polymer.</p>
+<fig id="F4">
+<label>Figure 4:</label><caption><title>FTIR chromatogram data of Apixaban.</title></caption>
+<graphic xlink:href="https://jourdata.s3.us-west-2.amazonaws.com/JPHI/IntJPharmInvestigation-15-4-1184_f004.jpg"/>
+</fig>
+<fig id="F5">
+<label>Figure 5:</label><caption><title>FTIR chromatogram data of celecoxib.</title></caption>
+<graphic xlink:href="https://jourdata.s3.us-west-2.amazonaws.com/JPHI/IntJPharmInvestigation-15-4-1184_f005.jpg"/>
+</fig>
+<fig id="F6">
+<label>Figure 6:</label><caption><title>FTIR chromatogram data of celecoxib and apixaban with Carbopol.</title></caption>
+<graphic xlink:href="https://jourdata.s3.us-west-2.amazonaws.com/JPHI/IntJPharmInvestigation-15-4-1184_f006.jpg"/>
+</fig>
+<fig id="F7">
+<label>Figure 7:</label><caption><title>FTIR chromatogram data of celecoxib and apixaban with Sodium CMC.</title></caption>
+<graphic xlink:href="https://jourdata.s3.us-west-2.amazonaws.com/JPHI/IntJPharmInvestigation-15-4-1184_f007.jpg"/>
+</fig>
+<table-wrap id="T3">
+<label>Table 3:</label><caption><title>FTIR data of apixaban and its emulgel.</title></caption>
+<table>
+<thead>
+<tr>
+<th><p>Sl. No.</p></th>
+<th><p>Functional group (stretching)</p></th>
+<th><p>Wavenumber (cm-1) Apixaban</p></th>
+<th><p>Emulgel with carbopol</p></th>
+<th><p>Emulgel with</p>
+<p>Sod. CMC</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>1</p></td>
+<td><p>O-H stretch (phenol)</p></td>
+<td><p>3739.13</p></td>
+<td><p>3736.35</p></td>
+<td><p>3735.19</p></td>
+</tr>
+<tr>
+<td><p>2</p></td>
+<td><p>C-H stretch (Aromatic)</p></td>
+<td><p>2925.26</p></td>
+<td><p>2920.01</p></td>
+<td><p>2921.93</p></td>
+</tr>
+<tr>
+<td><p>3</p></td>
+<td><p>C-H stretch (alkanes)</p></td>
+<td><p>2872.38</p></td>
+<td><p>2857.78</p></td>
+<td><p>2857.94</p></td>
+</tr>
+<tr>
+<td><p>4</p></td>
+<td><p>N-H bond</p></td>
+<td><p>1638.74</p></td>
+<td><p>1649.72</p></td>
+<td><p>1648.47</p></td>
+</tr>
+<tr>
+<td><p>5</p></td>
+<td><p>N-O asymmetric stretch</p></td>
+<td><p>1553.60</p></td>
+<td><p>1544.52</p></td>
+<td><p>1540.51</p></td>
+</tr>
+<tr>
+<td><p>6</p></td>
+<td><p>C-N stretch</p></td>
+<td><p>1356.82</p></td>
+<td><p>1367.71</p></td>
+<td><p>1364.42</p></td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<table-wrap id="T4">
+<label>Table 4:</label><caption><title>FTIR data of celecoxib and its emulgel.</title></caption>
+<table>
+<thead>
+<tr>
+<th><p>Sl. No.</p></th>
+<th><p>Functional group (stretching)</p></th>
+<th><p>wavenumber(cm-1) Celecoxib</p></th>
+<th><p>Emulgel with carbopol</p></th>
+<th><p>Emulgel with Sod. CMC</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>1</p></td>
+<td><p>N-H stretch</p></td>
+<td><p>3335.14</p></td>
+<td><p>3406.11</p></td>
+<td><p>3340.25</p></td>
+</tr>
+<tr>
+<td><p>2</p></td>
+<td><p>C-C stretch (Aromatic)</p></td>
+<td><p>1595.59</p></td>
+<td><p>1544.90</p></td>
+<td><p>1593.31</p></td>
+</tr>
+<tr>
+<td><p>3</p></td>
+<td><p>C-H stretch (alkanes)</p></td>
+<td><p>1445.92</p></td>
+<td><p>1457.68</p></td>
+<td><p>1457.28</p></td>
+</tr>
+<tr>
+<td><p>4</p></td>
+<td><p>N-O asymmetric stretch</p></td>
+<td><p>1383.37</p></td>
+<td><p>1367.26</p></td>
+<td><p>1364.63</p></td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+</sec>
+</sec>
+<sec>
+<title>Physical parameters of formulation batches</title>
+<p>The color of the Both Carbopol and Sod.CMC emulgel were found to be White to pale yellow, with glossy appearance, excellent homogeneity, Consistency and possessed characteristics odor. Results were shown in <xref ref-type="table" rid="T5">Table 5</xref>.</p>
+<table-wrap id="T5">
+<label>Table 5:</label><caption><title>Physical parameters of formulation batches.</title></caption>
+<table>
+<thead>
+<tr>
+<th><p>Formulation</p></th>
+<th><p>Colour</p></th>
+<th><p>Homogeneity</p></th>
+<th><p>Consistency</p></th>
+<th><p>Odour</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>C1</p></td>
+<td><p>Pale yellow</p></td>
+<td><p>Excellent</p></td>
+<td><p>Excellent</p></td>
+<td><p>Characteristics</p></td>
+</tr>
+<tr>
+<td><p>C2</p></td>
+<td><p>Pale yellow</p></td>
+<td><p>Excellent</p></td>
+<td><p>Excellent</p></td>
+<td><p>Characteristics</p></td>
+</tr>
+<tr>
+<td><p>C3</p></td>
+<td><p>Pale yellow</p></td>
+<td><p>Excellent</p></td>
+<td><p>Excellent</p></td>
+<td><p>Characteristics</p></td>
+</tr>
+<tr>
+<td><p>N1</p></td>
+<td><p>White</p></td>
+<td><p>Excellent</p></td>
+<td><p>Excellent</p></td>
+<td><p>Characteristics</p></td>
+</tr>
+<tr>
+<td><p>N2</p></td>
+<td><p>White</p></td>
+<td><p>Excellent</p></td>
+<td><p>Excellent</p></td>
+<td><p>Characteristics</p></td>
+</tr>
+<tr>
+<td><p>N3</p></td>
+<td><p>White</p></td>
+<td><p>Excellent</p></td>
+<td><p>Excellent</p></td>
+<td><p>Characteristics</p></td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<p><bold>pH:</bold> pH of various emulgel formulations was found in the ranges of 5.5&#177;0.07 to 6.1 &#177;0.19. Which compliance with skin pH range 4.5 to 6. 5. Thus, the emulgel would be biocompatible to the skin. Results were shown in <xref ref-type="table" rid="T6">Table 6</xref>.</p>
+<table-wrap id="T6">
+<label>Table 6:</label><caption><title>Physicochemical evaluation of emulgel.</title></caption>
+<table>
+<thead>
+<tr>
+<th><p>Formulation code</p></th>
+<th><p>pH</p></th>
+<th><p>viscosity (cP)</p></th>
+<th><p>Drug content (%)</p></th>
+<th><p>Spreadability (g.cm/sec)</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>C1</p></td>
+<td><p>5.87&#177;0.11</p></td>
+<td><p>10050 cp</p></td>
+<td><p>92.25&#177;0.31</p></td>
+<td><p>46.09&#177;0.20</p></td>
+</tr>
+<tr>
+<td><p>C2</p></td>
+<td><p>6.16&#177;0.05</p></td>
+<td><p>10385 cp</p></td>
+<td><p>96.31&#177;0.29</p></td>
+<td><p>35.16&#177;0.11</p></td>
+</tr>
+<tr>
+<td><p>C3</p></td>
+<td><p>5.93&#177;0.34</p></td>
+<td><p>10572 cp</p></td>
+<td><p>91.06&#177;0.18</p></td>
+<td><p>22.74 &#177; 0.31</p></td>
+</tr>
+<tr>
+<td><p>N1</p></td>
+<td><p>5.80&#177;0.21</p></td>
+<td><p>9070 cp</p></td>
+<td><p>92.74&#177;0.11</p></td>
+<td><p>49.62&#177;0.18</p></td>
+</tr>
+<tr>
+<td><p>N2</p></td>
+<td><p>6.26&#177;0.09</p></td>
+<td><p>9120 cp</p></td>
+<td><p>95.6&#177;0.37</p></td>
+<td><p>33.11&#177;0.26</p></td>
+</tr>
+<tr>
+<td><p>N3</p></td>
+<td><p>5.84&#177;0.17</p></td>
+<td><p>9254 cp</p></td>
+<td><p>91.49&#177;0.52</p></td>
+<td><p>28.04&#177;0.17</p></td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<p><bold>Spreadability:</bold> Spreadability of all formulated emulgel formulations ranges from 22.74&#177;0.31 to 49.62 &#177;0.18 g.cm/sec. Results were shown in <xref ref-type="table" rid="T6">Table 6</xref>.</p>
+<p><bold>Drug content:</bold> Drug content of emulgel was in the range of 91.06&#177;0.18% to 96.31&#177;0.29%. The drug content data of emulgel revealed that all the formulation exhibit good drug content that is more than 90%. Results were shown in <xref ref-type="table" rid="T6">Table 6</xref>.</p>
+<p><bold>Rheological study:</bold> The average viscosity of the emulgel formulation ranges from 9070cp to 10572 cp All emulgel batches with thixotropic behavior exhibit pseudoplastic flow. Results were shown in <xref ref-type="table" rid="T6">Table 6</xref>.</p>
+<p><bold>Photomicrography:</bold> Photo microscopic analyses revealed the existence of globules, which suggested that an emulsion had formed in the gel basis (<xref ref-type="fig" rid="F8">Figure 8</xref>).</p>
+<fig id="F8">
+<label>Figure 8:</label><caption><title>Photo micrography of emulgel.</title></caption>
+<graphic xlink:href="https://jourdata.s3.us-west-2.amazonaws.com/JPHI/IntJPharmInvestigation-15-4-1184_f008.jpg"/>
+</fig>
+</sec>
+<sec>
+<title><italic>In vitro</italic> diffusion study</title>
+<p>The cumulative percent drug release of the apixaban and celecoxib from Celecoxib emulgel release for batches C1, C2, C3 was 98%, 92%, 81% and 94%, 89%, 75% respectively whereas the cumulative percent drug release the apixaban and celecoxib from Sod.CMC emulgel is 93%, 88%, 79% and 91%, 84%, 75% respectively which was shown in <xref ref-type="fig" rid="F9">Figures 9</xref>-<xref ref-type="fig" rid="F12">12</xref>. From the results it was found that, drug release from the aforementioned formulation was influenced by gelling agent concentration and the viscosity of emulgel. Drug release reduces with increasing viscosity as gelling agent concentration increases. Hence drug release from Carbopol emulgel is C1&#62;C2&#62;C3, from Sod.CMC emulgel is N1&#62;N2&#62;N3. Based on drug release and ideal viscosity, C2 batch is regarded as an optimum formulation.</p>
+<fig id="F9">
+<label>Figure 9:</label><caption><title>Release profile of apixaban from Carbopol emulgel.</title></caption>
+<graphic xlink:href="https://jourdata.s3.us-west-2.amazonaws.com/JPHI/IntJPharmInvestigation-15-4-1184_f009.jpg"/>
+</fig>
+<fig id="F10">
+<label>Figure 10:</label><caption><title>Release profile of celecoxib from Carbopol emulgel.</title></caption>
+<graphic xlink:href="https://jourdata.s3.us-west-2.amazonaws.com/JPHI/IntJPharmInvestigation-15-4-1184_f010.jpg"/>
+</fig>
+<fig id="F11">
+<label>Figure 11:</label><caption><title>Release profile of apixaban from Sod.CMC emulgel.</title></caption>
+<graphic xlink:href="https://jourdata.s3.us-west-2.amazonaws.com/JPHI/IntJPharmInvestigation-15-4-1184_f011.jpg"/>
+</fig>
+<fig id="F12">
+<label>Figure 12:</label><caption><title>Release profile of celecoxib from Sod.CMC emulgel.</title></caption>
+<graphic xlink:href="https://jourdata.s3.us-west-2.amazonaws.com/JPHI/IntJPharmInvestigation-15-4-1184_f012.jpg"/>
+</fig>
+<fig id="F13">
+<label>Figure 13:</label><caption><title><italic>Ex vivo</italic> drug release study.</title></caption>
+<graphic xlink:href="https://jourdata.s3.us-west-2.amazonaws.com/JPHI/IntJPharmInvestigation-15-4-1184_f013.jpg"/>
+</fig>
+</sec>
+<sec>
+<title><italic>Ex vivo</italic> drug release study</title>
+<p><italic>Ex vivo</italic> study shows that cumulative percent of drug release was more than 80% in 3 hr which was shown in <xref ref-type="fig" rid="F13">Figure 13</xref>.</p>
+</sec>
+<sec>
+<title>Skin irritation studies</title>
+<p>The formulation was determined to be safe and nonirritating for topical administration because the rabbits&apos; primary skin irritation studies showed no signs of erythema or oedema. The developed formulation would be better suited for once or twice daily administration because it delivered the medication over an extended period of time.</p>
+</sec>
+</sec>
+<sec>
+<title>DISCUSSION</title>
+<p>The &#955;<sub>max</sub> value of celecoxib was found to be 253 nm and for apixaban at 278 nm in methanol by using UV spectrophotometer and in both cases R&#178; value is 0.9944. Simultaneous estimation of both apixaban and celecoxib was determined by mixing standards in the beers-lambert range in the ratio of 1:5. i.e in the concentration range of 5 &#181;g/mL and 25 &#181;g/mL for apixaban and celecoxib drugs. The slope, intercept, and correlation coefficient values for apixaban 278 nm were found to be equivalent to those for celecoxib at 253 nm.</p>
+<p>Drug-excipient compatibility study of apixaban, celecoxib with polymer was carried out by FTIR study. An FTIR spectrum of formulation shows significant peaks of apixaban, celecoxib indicating no interaction between of apixaban, celecoxib and excipients.</p>
+<p>For the evaluation of emulgel the parameters like pH, spreadability, swelling index, viscosity, drug content, <italic>in vitro</italic> and <italic>ex vivo</italic> drug release study was performed. The pH of emulgel formulation was found in the range of 5.8 to 6.4 which lies in the normal pH range of the skin thus no skin responses will result. All of the generated emulgel formulations had uniform drug content and was within the acceptable range, demonstrating homogeneous drug dispersion in the emulgels.</p>
+<p>Emulgel viscosity increases with gelling agent concentration, as demonstrated by the cases of C1&#60;C2&#60;C3 (Carbopol 940) and N1&#60;N2&#60; N3 (Sod.CMC), where the viscosity was found to be highest at the highest gelling agent concentration. With increase of the gelling agent concentration, the viscosity increases and the mass becomes harder, denser, and more compact due to the stronger interactions between the polymer molecules. A decrease in the emulgel&apos;s aqueous phase was the cause of the viscosity increase. Because spreadability determines how well the emulgel is applied to the affected area and can be withdrawn from the container, it has an impact on a topical product&apos;s therapeutic efficacy. Every prepared emulgel spreads easily and doesn&apos;t require rubbing. The spreadability among all formulated emulgel formulations ranged from 22.74&#177;0.31 to 49.62&#177;0.18 g.cm/sec. Emulgels were shown to become less spreadable when the concentration of the gelling ingredient was increased along with the viscosity. Photo microscopic analyses revealed the existence of globules, which suggested that an emulsion had formed in the gel basis.</p>
+<p>In order to ascertain the release of the drug from the formulation matrix and show that this procedure has no effect on the product&apos;s effectiveness, an <italic>in vitro</italic> release study was conducted. As illustrated in <xref ref-type="fig" rid="F9">Figures 9</xref>-<xref ref-type="fig" rid="F12">12</xref>, the cumulative percent drug release of celecoxib and apixaban from Carbopol emulgel is 98%, 92%, 81%, and 94%, 89%, 75%, respectively, while the cumulative percent drug release of these two medications from Sod.CMC emulgel is 93%, 88%, 79%, and 91%, 84%, 75%, respectively. The results showed that the concentration of the gelling agent and the viscosity of the emulgel affected the drug release from the previously described formulation. With increased viscosity and gelling agent concentration, drug release decreases. Hence drug release from Carbopol emulgel is C1&#62;C2&#62;C3, whereas from Sod.CMC emulgel, it is N1&#62;N2&#62;N3. The C2 batch is considered an optimal formulation due to its ideal viscosity and drug release. Since there was no erythema or oedema was observed during the rabbits&#8217; initial skin irritation trials, the formulation was deemed safe and no irritating for topical use. It would be more appropriate to apply the developed formulation once or twice a day because it delivered the drug over an extended period of time. According to the <italic>ex vivo</italic> permeability the emulgel formulation of apixaban, The emulgel formulation of celecoxib showed substantial systemic absorption.</p>
+</sec>
+<sec>
+<title>CONCLUSION</title>
+<p>Physicochemical studies, comprising rheological, spreading coefficient, and bioadhesion strength assessments, as well as <italic>in vitro</italic> and <italic>ex vivo</italic> release tests through rat skin, were conducted on a topical emulgel containing apixaban and celecoxib. The test formulations were released <italic>in vitro</italic> to ascertain the drug release from emulgel. Owing to the <italic>in vitro</italic> tests, formulation C2 exhibited apixaban and celecoxib maximal releases of 92% and 89% in 240 min. Despite having less drug release than C1, C2 is considered as the ideal batch based on viscosity. Formulation C2 achieved drug release of 88% and 86%, respectively, in an <italic>ex vivo</italic> drug release experiment. No erythema or edema occurred during primary skin irritation studies on the rabbits hence formulation was found to be safe and nonirritant for topical application.</p>
+</sec>
+</body>
+<back>
+<sec>
+<title>CONFLICT OF INTEREST</title>
+<p>The authors declare that there is no conflict of interest.</p>
+</sec>
+<sec>
+<title>ETHICAL STATEMENT</title>
+<p>Salipur CPCSEA Committee, which oversees institutional animal ethics, gave its approval for the use of animals (1053/PO/Re/S/07/CCSEA).</p>
+</sec>
+<ref-list>
+<title>REFERENCES</title>
+<ref id="R1">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bansal</surname>
+<given-names>A.</given-names>
+</name>
+<name>
+<surname>Singh</surname>
+<given-names>S.</given-names>
+</name>
+<name>
+<surname>Saleem</surname>
+<given-names>M. A.</given-names>
+</name>
+<name>
+<surname>Imam</surname>
+<given-names>S.</given-names>
+</name>
+</person-group>
+<year>2015</year>
+<article-title>Preparation and evaluation of valdecoxib emulgel formulations</article-title>
+<source>Biomedical and Pharmacology Journal</source>
+<volume>1</volume>
+<issue>1</issue>
+<fpage>131</fpage>
+<lpage>138</lpage>
+</element-citation>
+</ref>
+<ref id="R2">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bipindra</surname>
+<given-names>P.</given-names>
+</name>
+<name>
+<surname>Laxman</surname>
+<given-names>S.</given-names>
+</name>
+<name>
+<surname>Rishiram</surname>
+<given-names>B.</given-names>
+</name>
+</person-group>
+<year>2022</year>
+<article-title>Formulation and <italic>in vitro</italic> characterization of aceclofenac emulgel prepared using Carbopol 934 and sodium CMC</article-title>
+<source>Nov appro drug Des dev</source>
+<volume>6</volume>
+<issue>3</issue>
+<fpage>Article 555688</fpage>
+<pub-id pub-id-type="doi">10.19080/NAPDD.2022.06.555688</pub-id>
+</element-citation>
+</ref>
+<ref id="R3">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Dudhe</surname>
+<given-names>P. B.</given-names>
+</name>
+<name>
+<surname>Shelke</surname>
+<given-names>P.</given-names>
+</name>
+<name>
+<surname>Chavare</surname>
+<given-names>P.</given-names>
+</name>
+</person-group>
+<year>2017</year>
+<article-title>Determination of apixaban from bulk and tablet dosage form by area under curve and first order derivative spectrophotometric methods</article-title>
+<source>International Journal of ChemTech Research</source>
+<volume>10</volume>
+<issue>5</issue>
+<fpage>703</fpage>
+<lpage>711</lpage>
+</element-citation>
+</ref>
+<ref id="R4">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>John</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Charyulu</surname>
+<given-names>R. N.</given-names>
+</name>
+<name>
+<surname>Ravi</surname>
+<given-names>G. S.</given-names>
+</name>
+<name>
+<surname>Jose</surname>
+<given-names>J.</given-names>
+</name>
+</person-group>
+<year>2020</year>
+<article-title>Nanosponge based hydrogels of etodolac for topical delivery</article-title>
+<source>Research Journal of Pharmacy and Technology</source>
+<volume>13</volume>
+<issue>8</issue>
+<fpage>3887</fpage>
+<lpage>3892</lpage>
+<pub-id pub-id-type="doi">10.5958/0974-360X.2020.00688.5</pub-id>
+</element-citation>
+</ref>
+<ref id="R5">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kasliwal</surname>
+<given-names>N.</given-names>
+</name>
+<name>
+<surname>Derle</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Negi</surname>
+<given-names>J.</given-names>
+</name>
+<name>
+<surname>Gohil</surname>
+<given-names>J.</given-names>
+</name>
+</person-group>
+<year>2008</year>
+<article-title>Effect of permeation enhancers on the release and permeation kinetics of meloxicam gel formulations through rat skin</article-title>
+<source>Asian Journal of Pharmaceutical Sciences</source>
+<volume>3</volume>
+<issue>5</issue>
+<fpage>193</fpage>
+<lpage>199</lpage>
+</element-citation>
+</ref>
+<ref id="R6">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kausdikar</surname>
+<given-names>R. N.</given-names>
+</name>
+<name>
+<surname>Kondawr</surname>
+<given-names>M. S.</given-names>
+</name>
+<name>
+<surname>Sayyad</surname>
+<given-names>F. J.</given-names>
+</name>
+</person-group>
+<year>2022</year>
+<article-title>Development and characterization of mupirocin emulgel for the treatment of primary and secondary infections in dry skin conditions</article-title>
+<source>International Journal of Pharmaceutical Investigation</source>
+<volume>12</volume>
+<issue>4</issue>
+<fpage>470</fpage>
+<lpage>474</lpage>
+<pub-id pub-id-type="doi">10.5530/ijpi.2022.4.80</pub-id>
+</element-citation>
+</ref>
+<ref id="R7">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Khullar</surname>
+<given-names>R.</given-names>
+</name>
+<name>
+<surname>Kumar</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Seth</surname>
+<given-names>N.</given-names>
+</name>
+<name>
+<surname>Saini</surname>
+<given-names>S.</given-names>
+</name>
+</person-group>
+<year>2012</year>
+<article-title>Formulation and evaluation of mefenamic acid emulgel for topical delivery</article-title>
+<source>Saudi Pharmaceutical Journal</source>
+<volume>20</volume>
+<issue>1</issue>
+<fpage>63</fpage>
+<lpage>67</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jsps.2011.08.001</pub-id>
+</element-citation>
+</ref>
+<ref id="R8">
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Krishna</surname>
+<given-names>N. V.</given-names>
+</name>
+<name>
+<surname>Yashwanthi</surname>
+<given-names>P.</given-names>
+</name>
+<name>
+<surname>Hemalatha</surname>
+<given-names>B.</given-names>
+</name>
+<name>
+<surname>Padmalatha</surname>
+<given-names>K.</given-names>
+</name>
+</person-group>
+<article-title>A review on emulgels as a novel approach for topical drug delivery</article-title>
+</element-citation>
+</ref>
+<ref id="R9">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lakshmi</surname>
+<given-names>S. S.</given-names>
+</name>
+<name>
+<surname>Divya</surname>
+<given-names>R.</given-names>
+</name>
+<name>
+<surname>Rao</surname>
+<given-names>S. Y.</given-names>
+</name>
+<name>
+<surname>Kumari</surname>
+<given-names>K. P.</given-names>
+</name>
+<name>
+<surname>Deepthi</surname>
+<given-names>K.</given-names>
+</name>
+</person-group>
+<year>2021</year>
+<article-title>Emulgel-novel trend in topical drug delivery system-review article</article-title>
+<source>Research Journal of Pharmacy and Technology</source>
+<volume>14</volume>
+<issue>5</issue>
+<fpage>2903</fpage>
+<lpage>2906</lpage>
+</element-citation>
+</ref>
+<ref id="R10">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mahmood</surname>
+<given-names>A.</given-names>
+</name>
+<name>
+<surname>Rapalli</surname>
+<given-names>V. K.</given-names>
+</name>
+<name>
+<surname>Waghule</surname>
+<given-names>T.</given-names>
+</name>
+<name>
+<surname>Gorantla</surname>
+<given-names>S.</given-names>
+</name>
+<name>
+<surname>Dubey</surname>
+<given-names>S. K.</given-names>
+</name>
+<name>
+<surname>Saha</surname>
+<given-names>R. N.</given-names>
+</name>
+<name>
+<surname>Singhvi</surname>
+<given-names>G.</given-names>
+</name>
+</person-group>
+<year>2020</year>
+<article-title>UV spectrophotometric method for simultaneous estimation of betamethasone valerate and tazarotene with absorption factor method: Application for <italic>in vitro</italic> and <italic>ex vivo</italic> characterization of lipidic nanocarriers for topical delivery</article-title>
+<source>Spectrochimica Acta. Part A, Molecular and Biomolecular Spectroscopy</source>
+<volume>235</volume>
+<fpage>Article 118310</fpage>
+<pub-id pub-id-type="doi">10.1016/j.saa.2020.118310</pub-id>
+</element-citation>
+</ref>
+<ref id="R11">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Malviya</surname>
+<given-names>K. G.</given-names>
+</name>
+<name>
+<surname>Shivhare</surname>
+<given-names>U. D.</given-names>
+</name>
+<name>
+<surname>Srivastav</surname>
+<given-names>P.</given-names>
+</name>
+<name>
+<surname>Shivhare</surname>
+<given-names>S. C.</given-names>
+</name>
+</person-group>
+<year>2013</year>
+<article-title>Evaluation of analgesic potential of Cyathocline lyrata cass plant in rats by using tail flick and hot plate method</article-title>
+<source>Asian Journal of Pharmaceutical Research</source>
+<volume>3</volume>
+<issue>2</issue>
+<fpage>82</fpage>
+<lpage>85</lpage>
+</element-citation>
+</ref>
+<ref id="R12">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Maskare</surname>
+<given-names>R.</given-names>
+</name>
+<name>
+<surname>Thakre</surname>
+<given-names>S.</given-names>
+</name>
+<name>
+<surname>Gupta</surname>
+<given-names>V.</given-names>
+</name>
+<name>
+<surname>Basantwani</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Kshirsagar</surname>
+<given-names>A.</given-names>
+</name>
+<name>
+<surname>Bahekar</surname>
+<given-names>T.</given-names>
+</name>
+<name>
+<surname>Jaiswal</surname>
+<given-names>A.</given-names>
+</name>
+</person-group>
+<year>2022</year>
+<article-title>Formulation and evaluation of emulgel for topical delivery of dexibuprofen</article-title>
+<source>Research Journal of Pharmacy and Technology</source>
+<volume>15</volume>
+<issue>2</issue>
+<fpage>745</fpage>
+<lpage>750</lpage>
+<pub-id pub-id-type="doi">10.52711/0974-360X.2022.00124</pub-id>
+</element-citation>
+</ref>
+<ref id="R13">
+<element-citation publication-type="conf-proc">
+<person-group person-group-type="author">
+<name>
+<surname>Muzib</surname>
+<given-names>Y. I.</given-names>
+</name>
+<name>
+<surname>Sujitha</surname>
+<given-names>Y. S.</given-names>
+</name>
+<name>
+<surname>Ambedkar</surname>
+<given-names>Y. R.</given-names>
+</name>
+</person-group>
+<year>2021</year>
+<article-title>Celecoxib Topical Nanoemulgel: Formulation, <italic>ex vivo</italic>, Pharmacodynamic, and pharmacokinetic Studies</article-title>
+<source>Rt-PA of the 2nd International Conference on Computational and Bio Engineering: CBE 2020</source>
+<fpage>299</fpage>
+<lpage>310</lpage>
+<publisher-name>Springer</publisher-name>
+</element-citation>
+</ref>
+<ref id="R14">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Panwar</surname>
+<given-names>A.</given-names>
+</name>
+<name>
+<surname>Upadhyay</surname>
+<given-names>N.</given-names>
+</name>
+<name>
+<surname>Bairagi</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Gujar</surname>
+<given-names>S.</given-names>
+</name>
+<name>
+<surname>Darwhekar</surname>
+<given-names>G.</given-names>
+</name>
+<name>
+<surname>Jain</surname>
+<given-names>D.</given-names>
+</name>
+</person-group>
+<year>2011</year>
+<article-title>Emulgel: A review</article-title>
+<source>Asian J. Pharm. Life Sci.</source>
+<volume>2231</volume>
+<fpage>4423</fpage>
+</element-citation>
+</ref>
+<ref id="R15">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ramadan</surname>
+<given-names>H. S.</given-names>
+</name>
+<name>
+<surname>Salam</surname>
+<given-names>R. A. A.</given-names>
+</name>
+<name>
+<surname>Hadad</surname>
+<given-names>G. M.</given-names>
+</name>
+<name>
+<surname>Belal</surname>
+<given-names>F.</given-names>
+</name>
+<name>
+<surname>Salim</surname>
+<given-names>M. M.</given-names>
+</name>
+</person-group>
+<year>2023</year>
+<article-title>Eco-friendly simultaneous multi-spectrophotometric estimation of the newly approved drug combination of celecoxib and tramadol hydrochloride tablets in its dosage form</article-title>
+<source>Scientific Reports</source>
+<volume>13</volume>
+<issue>1</issue>
+<fpage>Article 11716</fpage>
+<pub-id pub-id-type="doi">10.1038/s41598-023-38702-9</pub-id>
+</element-citation>
+</ref>
+<ref id="R16">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Reddy</surname>
+<given-names>M. S.</given-names>
+</name>
+<name>
+<surname>Tanzeem</surname>
+<given-names>S. K.</given-names>
+</name>
+<name>
+<surname>Haq</surname>
+<given-names>S. M.</given-names>
+</name>
+</person-group>
+<year>2020</year>
+<article-title>Formulation and evaluation of celecoxib emulgel</article-title>
+<source>International Journal of Pharmacy and Biological Sciences-IJPBS TM</source>
+<volume>10</volume>
+<issue>1</issue>
+<fpage>10</fpage>
+</element-citation>
+</ref>
+<ref id="R17">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Reddy</surname>
+<given-names>R.</given-names>
+</name>
+<name>
+<surname>Priya</surname>
+<given-names>S.</given-names>
+</name>
+<name>
+<surname>Akula</surname>
+<given-names>G.</given-names>
+</name>
+<name>
+<surname>Santhosh</surname>
+<given-names>S.</given-names>
+</name>
+<name>
+<surname>Jaswanth</surname>
+<given-names>A.</given-names>
+</name>
+</person-group>
+<year>2021</year>
+<article-title>Formulation and evaluation of naproxen Emulgel for topical delivery</article-title>
+<source>Research Journal of Pharmacy and Technology</source>
+<volume>14</volume>
+<issue>4</issue>
+<fpage>1961</fpage>
+<lpage>1965</lpage>
+<pub-id pub-id-type="doi">10.52711/0974-360X.2021.00347</pub-id>
+</element-citation>
+</ref>
+<ref id="R18">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Srivastava</surname>
+<given-names>A.</given-names>
+</name>
+<name>
+<surname>Desai</surname>
+<given-names>S.</given-names>
+</name>
+<name>
+<surname>Jain</surname>
+<given-names>H.</given-names>
+</name>
+<name>
+<surname>Meshram</surname>
+<given-names>D. B.</given-names>
+</name>
+</person-group>
+<year>2020</year>
+<article-title>Formulation and evaluation of fusidic acid emulgel</article-title>
+<source>Journal of Drug Delivery and Therapeutics</source>
+<volume>10</volume>
+<issue>3&#8211;s</issue>
+<fpage>169</fpage>
+<lpage>175</lpage>
+<pub-id pub-id-type="doi">10.22270/jddt.v10i3-s.4119</pub-id>
+</element-citation>
+</ref>
+<ref id="R19">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Talat</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Zaman</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Khan</surname>
+<given-names>R.</given-names>
+</name>
+<name>
+<surname>Jamshaid</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Akhtar</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Mirza</surname>
+<given-names>A. Z.</given-names>
+</name>
+</person-group>
+<year>2021</year>
+<article-title>Emulgel: An effective drug delivery system</article-title>
+<source>Drug Development and Industrial Pharmacy</source>
+<volume>47</volume>
+<issue>8</issue>
+<fpage>1193</fpage>
+<lpage>1199</lpage>
+<pub-id pub-id-type="doi">10.1080/03639045.2021.1993889</pub-id>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+<floats-group>
+<boxed-text id="BX1" position="float" orientation="portrait">
+<caption><title>Cite this article:</title></caption><p>Sahoo AC, Dash S, Sahoo PK, Sahoo M. Formulation and Evaluation of Celecoxib and Apixaban Emulgel for Topical Delivery. Int. J. Pharm. Investigation. 2025;15(4):1184-94.</p></boxed-text>
+</floats-group>
+</article>
